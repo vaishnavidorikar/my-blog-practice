@@ -8,5 +8,10 @@
 
 .subscribe-button:hover {
     background-color: #0056b3;
+    body {
+    background-color: #121212;
+    color: #f5f5f5;
+}
+
 }
 
